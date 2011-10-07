@@ -1,0 +1,37 @@
+h1. Game Design
+
+h2. Models
+
+Man
+
+Vampyre < Man
+
+Agent
+
+Banker
+Tax collector
+Police officer
+Judge
+...
+
+Person
+
+Program
+
+Birth Certificate
+  Bond
+  Bill of Laden
+
+mother - Man (female)
+  pledge labor
+
+child
+man - Man
+
+Promisory Note
+
+Bank Note < Promisory Note
+
+Tax notice < Notice
+Tax bill < Bill of Exchange
+
