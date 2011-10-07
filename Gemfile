@@ -15,14 +15,6 @@ group :assets do
   gem 'uglifier'
 end
 
-
-
-# Use unicorn as the web server
-# gem 'unicorn'
-
-# Deploy with Capistrano
-# gem 'capistrano'
-
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
@@ -32,5 +24,8 @@ gem "haml", ">= 3.0.0"
 gem "haml-rails"
 gem "jquery-rails"
 gem "bson_ext"
-gem "mongoid", ">= 2.0.0.beta.19"
+gem "mongoid", ">= 2.0.1"
 gem "rspec-rails", ">= 2.0.1", :group => [:development, :test]
+gem 'cantango'
+gem 'draper'
+gem "rails-backbone"
